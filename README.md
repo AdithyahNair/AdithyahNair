@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Welcome to my GitHub profile 👋
 
 - 🔭 I’m currently working on implementing Blockchain and smart contracts
 - 🌱 I’m currently learning solidity and react js
